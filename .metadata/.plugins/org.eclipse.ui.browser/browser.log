@@ -1,0 +1,4 @@
+
+Jun 19, 2023 18:00:05.603 NEW SESSION
+Jun 19, 2023 18:00:05.604 [7248:10368:0619/180005.599:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 19, 2023 18:26:57.104 [7248:10368:0619/182657.088:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2

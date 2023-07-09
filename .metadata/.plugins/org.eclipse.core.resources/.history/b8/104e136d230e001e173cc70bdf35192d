@@ -1,0 +1,20 @@
+package productcrudapp.dao;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
+
+import productcrudapp.model.Product;
+
+@Component
+public class ProductDao {
+	
+	@Autowired
+	private Hibernate hibernate;
+	
+	public void createProduct(Product product)
+	{
+		this.h
+	}
+
+}

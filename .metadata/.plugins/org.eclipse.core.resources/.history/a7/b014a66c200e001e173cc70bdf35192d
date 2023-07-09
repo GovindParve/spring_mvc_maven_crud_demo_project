@@ -1,0 +1,6 @@
+package productcrudapp.controller;
+
+@Con
+public class MainController {
+
+}
